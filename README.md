@@ -1,6 +1,6 @@
 Script for the manuscript entitled "Environmental factors influencing hormone receptor positive breast cancer incidence: integrating chemical signatures from dust wipes with self-reported sources of exposure", published in the journal of exposure science & environmental epidemiology in 2025.
 
-Koval LE, Hsiao YC, Jiang E, Eaves L, Sandler DP, Nichols HB, Lu K, White AJ, Rager JE. Environmental factors influencing hormone receptor positive breast cancer incidence: integrating chemical signatures from dust wipes with self-reported sources of exposure. J Expo Sci Environ Epidemiol. 2026 Mar;36(2):288-299. doi: 10.1038/s41370-025-00819-6. Epub 2025 Nov 21. PMID: 41272056; PMCID: PMC12720391. DOI: 10.1038/s41370-025-00819-6
+Koval LE, Hsiao YC, Jiang E, Eaves L, Sandler DP, Nichols HB, Lu K, White AJ, Rager JE. Environmental factors influencing hormone receptor positive breast cancer incidence: integrating chemical signatures from dust wipes with self-reported sources of exposure. J Expo Sci Environ Epidemiol. 2026 Mar;36(2):288-299. Epub 2025 Nov 21. PMID: 41272056; PMCID: PMC12720391. DOI: 10.1038/s41370-025-00819-6
 
 **Abstract:**  
 Background: Breast cancer is a highly prevalent disease. Chemical exposures may contribute to breast cancer risk, though most chemicals to which humans are exposed remain understudied in breast cancer research.
